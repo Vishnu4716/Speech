@@ -46,5 +46,7 @@ Evaluation Metrics:
 •	Precision: 92.30%
 •	Recall: 91.99%
 •	F1 Score: 91.98%
+![image](https://github.com/user-attachments/assets/5b8408f5-fdbb-4138-be54-d91f700fab50)
+
 
  
